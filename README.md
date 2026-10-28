@@ -1,4 +1,4 @@
-# ZERO 动态设计系统 MCP
+# JDI 落地页模板库 MCP
 
 基于《落地页模板库》的可运行 TypeScript MCP 服务，面向页面生成 Agent。项目使用用户指定的 `@modelcontextprotocol/sdk` 包和 stdio 传输，固定依赖版本并提交 lockfile。
 
